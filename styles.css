@@ -193,7 +193,7 @@ p {
 }
 
 .two-columns {
-  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
   align-items: center;
   padding: 10px 10px;
   gap: 20px;
