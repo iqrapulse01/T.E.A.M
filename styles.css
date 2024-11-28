@@ -179,13 +179,13 @@ p {
   position: relative;
   padding-top: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  /* margin-right: 10px; */
 }
-
+.blob{
+margin-right: 25px;
+}
 .row {
   display: grid;
   gap: 10px;
-  /* padding: 20px 0; */
 }
 
 .full-width-row {
@@ -196,7 +196,7 @@ p {
   grid-template-columns: repeat(auto-fit, minmax(200px, auto));
   align-items: center;
   padding: 10px 10px;
-  margin-right: 30px;
+  margin-right: 10px;
   gap: 20px;
   /* align-content: center; */
 }
