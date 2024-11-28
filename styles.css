@@ -196,6 +196,7 @@ p {
   grid-template-columns: repeat(auto-fit, minmax(250px, auto));
   align-items: center;
   padding: 10px 10px;
+  margin-left: 10px;
   gap: 20px;
   /* align-content: center; */
 }
