@@ -34,9 +34,8 @@ body {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 350px;
+  width: 260px;
   height: 100%;
-  /* background: blue; */
   color: pink;
   font-size: 1rem;
   letter-spacing: 1px;
