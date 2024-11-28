@@ -179,6 +179,7 @@ p {
   position: relative;
   padding-top: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  /* margin-right: 10px; */
 }
 
 .row {
@@ -194,7 +195,7 @@ p {
 .two-columns {
   grid-template-columns: repeat(auto-fit, minmax(300px, auto));
   align-items: center;
-  padding: 10px 10%;
+  padding: 10px 10px;
   gap: 20px;
   /* align-content: center; */
 }
